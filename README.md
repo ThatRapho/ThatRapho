@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🌐 Hey there, I'm Raphael
 
-<!--
-**ThatRapho/ThatRapho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A developer who enjoys turning ideas into interactive web experiences.  
+I come from a full-stack background, but my passion lies in **front-end development** and **creative design** — building interfaces that feel good to use *and* look great.
 
-Here are some ideas to get you started:
+### 🧩 I Work With
+**React**, **JavaScript**, **HTML/CSS**, **Node.js**, **Figma**, and other tools that help bring ideas to life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 My Focus
+- Designing responsive, modern web layouts  
+- Writing clean, maintainable code  
+- Experimenting with animations, UI polish, and creative concepts  
+
+### 🔭 Currently Exploring
+Improving my design workflow and learning more about front-end architecture and component libraries.
+
+✨ *Always learning, always creating.*
